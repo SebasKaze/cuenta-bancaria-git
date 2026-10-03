@@ -1,0 +1,7 @@
+*   3a18111 (HEAD -> main, origin/main) Merge pull request #1 from SebasKaze/feature/retiros
+|\  
+| * d4a0a5d Dice cuántos retiros fueron gratis
+| * 751a47c Muestra el número de retiros
+|/  
+* b451bd5 MP-1: mi nombre en el estado de cuenta
+* ea47c85 MP-0: la cuenta bancaria
